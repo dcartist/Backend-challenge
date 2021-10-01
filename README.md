@@ -93,8 +93,7 @@ The rules are rules, and even in work, there are things out there you don't want
 ## API Resources:
 
 - JSON Placeholder - [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
-- REQ | RES - [https://reqres.in](https://reqres.in/) 
-- Mockup API - [https://www.mockaroo.com](https://www.mockaroo.com/)
+
 
 ### API List
 
