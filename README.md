@@ -71,21 +71,13 @@ The rules are rules, and even in work, there are things out there you don't want
 ### Ideas for Backend:
 
 - Instagram Backend
-
 - Blog
-
 - News Storage
-
 - StockMarket Tracker
-
 - Banking (Having login, account information, being able to do transactions)
-
 - User Authentication System
-
 - E-commerce System : Handle customers, quantity, variations, prices, images
-
 - Government Data. Taking a dataset from a government department and building out an API based upon the data. Data USA: [https://datausa.io/about/api][6] Code.gov: [https://code.gov/agencies][7]
-
 - Movie or Book Database with Favorites. Search through the movie or book API, then save each search to your api.
 
 
@@ -93,7 +85,8 @@ The rules are rules, and even in work, there are things out there you don't want
 ## API Resources:
 
 - JSON Placeholder - [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
-
+- REQ | RES - [https://reqres.in](https://reqres.in/) 
+- Mockup API - [https://www.mockaroo.com](https://www.mockaroo.com/)
 
 ### API List
 
@@ -116,7 +109,14 @@ The rules are rules, and even in work, there are things out there you don't want
 - RestAPIExample - https://dummy.restapiexample.com/ (Can get too many requests error)
 - Star Wars API - https://swapi.dev/ -  Watch out for the **last slash in the url** & watch for **https** vs ~~**http**~~
 
+## Medium:
 
+- Marvel API - [https://developer.marvel.com](https://developer.marvel.com/) 
+- Open Weather API - https://openweathermap.org/api - Takes from a couple of hours to a day for key.
+
+## Hard:
+
+Spotify https://developer.spotify.com/documentation/web-api/ (Can lead to confusion, but it's doable)
 
 ## Other Resources:
 
