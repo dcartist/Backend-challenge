@@ -77,7 +77,9 @@ The rules are rules, and even in work, there are things out there you don't want
 - Banking (Having login, account information, being able to do transactions)
 - User Authentication System
 - E-commerce System : Handle customers, quantity, variations, prices, images
-- Government Data. Taking a dataset from a government department and building out an API based upon the data. Data USA: [https://datausa.io/about/api][6] Code.gov: [https://code.gov/agencies][7]
+- Government Data. Taking a dataset from a government department and building out an API based upon the data.
+  -  Data USA: https://datausa.io/about/api 
+  - Code.gov: https://code.gov/agencies
 - Movie or Book Database with Favorites. Search through the movie or book API, then save each search to your api.
 
 
