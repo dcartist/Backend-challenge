@@ -1,6 +1,6 @@
 # 
 
-# BACKEND ASSIGNMENT
+# BACKEND CHALLENGE
 
 You will be building a JSON API using Mongoose/Express, Flask, or Django RESTful Framework. In addition, you will find a dataset/third-party API to pull data into your API. You will have to be creative.
 
