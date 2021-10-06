@@ -105,6 +105,7 @@ The rules are rules, and even in work, there are things out there you don't want
 - Countries - https://restcountries.eu/
 - Fake Store API - https://fakestoreapi.com/
 - OMDB - https://www.omdbapi.com/   (requires token)
+- Studio Ghibli - https://ghibliapi.herokuapp.com/
 - iex cloud - https://iexcloud.io/console/   (requires token)
 - Open Library - https://openlibrary.org/developers/api
 - Makeup Heroku - http://makeup-api.herokuapp.com/ (Warning it is on Heroku it can be asleep)
