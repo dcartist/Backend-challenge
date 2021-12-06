@@ -13,7 +13,7 @@ Your project must satisfy the following requirements:
 - Be built using Express and Mongoose, Flask, or Django RESTful Framework.
 - Have at least two models and have accessed a third-party API.
 - Have FULL CRUD (CREATE, READ, UPDATE, **AND** **DELETE**) functionality implemented with RESTful routes. You may distribute CRUD across models should you decide to implement more than one. If the third-party API has full CRUD functionality, you still must be able to do **FULL CRUD** on your API, meaning CREATE, READ, UPDATE, DELETE on your **OWN** database.
-- Have a repository under your GitHub account (do not fork this repo).
+- Have a repository under your GitHub account.
 - Be deployed to Heroku (we will have a lesson on this later this week). (**THIS IS REQUIRED**)
 - Have good, clean Javascript/Python code with comments on what is happening throughout your code. Use the auto-formatter regularly!
 - Demonstrate a good commit history. The more commits you make, the better it is for you when something goes wrong.
